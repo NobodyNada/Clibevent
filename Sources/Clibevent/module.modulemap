@@ -1,0 +1,4 @@
+module Clibevent [system] {
+  header "libevent.h"
+  export *
+}
